@@ -1,9 +1,9 @@
 #include "utils.h"
+#include "calcule.h"
 #include <stdio.h>
 
 int main(void) {
-    int a = 10;
-    int b = 11;
-    swap (&a, &b);
-    printf("ok : ", swap);
+    float result = moyenne();
+    printf("Moyenne retournee : %.2f\n", result);
+    return 0;
 }

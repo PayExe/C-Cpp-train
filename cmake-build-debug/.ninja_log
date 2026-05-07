@@ -1,12 +1,15 @@
 # ninja log v7
 4	81	7998603782960819	CMakeFiles/C_Cpp_train.dir/main.c.obj	bc4f5c5dde88c616
 81	183	7998603783738654	C_Cpp_train.exe	b3eaddd2a65dba24
-2	119	7998622640274627	build.ninja	5c6b5f7b2f7824c6
-2	119	7998622640219416	C:/Users/panto/C-Cpp-train/cmake-build-debug/cmake_install.cmake	5c6b5f7b2f7824c6
+2	451	7998660295637510	build.ninja	5c6b5f7b2f7824c6
+2	451	7998660295547909	C:/Users/panto/C-Cpp-train/cmake-build-debug/cmake_install.cmake	5c6b5f7b2f7824c6
 7	92	7992657718987672	CMakeFiles/C_Cpp_train.dir/train/calcul.c.obj	844f80efc9ac6d47
 4	76	7992678667372364	CMakeFiles/C_Cpp_train.dir/calcul.c.obj	2781cf1eead87e98
 9	75	7992678667427546	CMakeFiles/C_Cpp_train.dir/affichage.c.obj	edc5de08a86a1e75
-2	451	7998622640274627	build.ninja	5c6b5f7b2f7824c6
-2	451	7998622640274627	C:/Users/panto/C-Cpp-train/cmake-build-debug/cmake_install.cmake	5c6b5f7b2f7824c6
-8	184	7998622640685985	CMakeFiles/C_Cpp_train.dir/swap.c.obj	9afaa02c00a6d673
 10	84	7998622740565195	CMakeFiles/C_Cpp_train.dir/swap.c.obj	9afaa02c00a6d673
+26	429	7998661836125481	CMakeFiles/C_Cpp_train.dir/swap.c.obj	9afaa02c00a6d673
+31	430	7998661836165535	CMakeFiles/C_Cpp_train.dir/calcule.c.obj	51e6c8f13e2106a2
+20	431	7998661836060352	CMakeFiles/C_Cpp_train.dir/main.c.obj	bc4f5c5dde88c616
+431	747	7998661840160913	C_Cpp_train.exe	7d94b85ef0346d72
+4	118	7998668213132674	CMakeFiles/C_Cpp_train.dir/calcule.c.obj	51e6c8f13e2106a2
+119	285	7998668214287629	C_Cpp_train.exe	7d94b85ef0346d72

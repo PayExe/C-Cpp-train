@@ -10,5 +10,17 @@
   "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\C_Cpp_train.dir\\swap.c.obj -c C:\\Users\\panto\\C-Cpp-train\\swap.c",
   "file": "C:/Users/panto/C-Cpp-train/swap.c",
   "output": "C:/Users/panto/C-Cpp-train/cmake-build-debug/CMakeFiles/C_Cpp_train.dir/swap.c.obj"
+},
+{
+  "directory": "C:/Users/panto/C-Cpp-train/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\C_Cpp_train.dir\\calcule.c.obj -c C:\\Users\\panto\\C-Cpp-train\\calcule.c",
+  "file": "C:/Users/panto/C-Cpp-train/calcule.c",
+  "output": "C:/Users/panto/C-Cpp-train/cmake-build-debug/CMakeFiles/C_Cpp_train.dir/calcule.c.obj"
+},
+{
+  "directory": "C:/Users/panto/C-Cpp-train/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\C_Cpp_train.dir\\affichage.c.obj -c C:\\Users\\panto\\C-Cpp-train\\affichage.c",
+  "file": "C:/Users/panto/C-Cpp-train/affichage.c",
+  "output": "C:/Users/panto/C-Cpp-train/cmake-build-debug/CMakeFiles/C_Cpp_train.dir/affichage.c.obj"
 }
 ]
