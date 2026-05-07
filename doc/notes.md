@@ -96,3 +96,34 @@ float moyenne()
     return moy;
 }
 ```
+
+version prof
+
+```
+#include "calcul.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+float moyenne() {
+    float result = 0.0;
+    float user;
+    int size = 1;
+    float *tab = malloc(size * sizeof(float));
+
+    while (user != -1) {
+        printf("Rentrer une note, -1 pour terminer ! \n");
+        scanf("%f", & user);
+        if (user == -1) {break;}
+        tab = realloc(tab, size * sizeof(float));
+        tab[size] = user;
+        size++;
+    }
+
+    for (int i = 0; i < size; i++) {
+        result += tab[i];
+    }
+
+    free(tab);
+    return result / size;
+}
+```
