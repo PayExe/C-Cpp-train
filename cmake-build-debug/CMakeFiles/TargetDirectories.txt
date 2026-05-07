@@ -1,0 +1,3 @@
+C:/Users/panto/C-Cpp-train/cmake-build-debug/CMakeFiles/C_Cpp_train.dir
+C:/Users/panto/C-Cpp-train/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/panto/C-Cpp-train/cmake-build-debug/CMakeFiles/rebuild_cache.dir
